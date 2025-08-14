@@ -1,0 +1,19 @@
+{
+  "title": "Careers at Miralys",
+  "subtitle": "Join our team!\nClick on the job to apply!",
+  "jobs": "Available Positions",
+  "language": "Language",
+  "job": {
+    "developer": "Developer",
+    "sysadmin": "System & Network Admin",
+    "designer": "Designer",
+    "gfx": "GFX",
+    "pm": "Project Manager",
+    "video": "Video Editor",
+    "community": "Community Manager",
+    "animator": "Animator",
+    "moderator": "Moderator",
+    "staff": "Staff Manager",
+    "animator_manager": "Animator Manager"
+  }
+}

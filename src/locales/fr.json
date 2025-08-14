@@ -1,0 +1,19 @@
+{
+  "title": "Carrières chez Miralys",
+  "subtitle": "Rejoignez notre équipe !\nCliquez sur le poste pour candidater !",
+  "jobs": "Postes disponibles",
+  "language": "Langue",
+  "job": {
+    "developer": "Développeur",
+    "sysadmin": "Administrateur Système & Réseau",
+    "designer": "Designer",
+    "gfx": "Graphiste",
+    "pm": "Chef de projet",
+    "video": "Monteur vidéo",
+    "community": "Community Manager",
+    "animator": "Animateur",
+    "moderator": "Modérateur",
+    "staff": "Manager du staff",
+    "animator_manager": "Manager des animateurs"
+  }
+}
